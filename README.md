@@ -11,3 +11,5 @@
 ![Screenshot from 2024-02-15 08-46-01](https://github.com/halyson97/microfrontends/assets/9968866/4738d574-3aec-4703-b626-0f7d8a87564c)
 
 ![Screenshot from 2024-02-15 11-32-31](https://github.com/halyson97/microfrontends/assets/9968866/5b9e7eb1-2150-4074-8c7b-42fc1b64e659)
+
+![Screenshot from 2024-02-15 12-32-19](https://github.com/halyson97/microfrontends/assets/9968866/26dce940-9f04-45b4-97e7-56aac6de2e58)
