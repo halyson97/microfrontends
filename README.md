@@ -7,3 +7,5 @@
 ![Screenshot from 2024-02-14 15-00-32](https://github.com/halyson97/microfrontends/assets/9968866/69834134-4ef6-4395-b22f-7607f3e50a84)
 
 ![Screenshot from 2024-02-14 15-02-29](https://github.com/halyson97/microfrontends/assets/9968866/7013d46f-49c6-4fbe-af01-dcc616e8b64a)
+
+![Screenshot from 2024-02-15 08-46-01](https://github.com/halyson97/microfrontends/assets/9968866/4738d574-3aec-4703-b626-0f7d8a87564c)
